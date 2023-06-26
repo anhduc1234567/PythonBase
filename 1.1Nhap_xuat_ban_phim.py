@@ -1,0 +1,33 @@
+full_name = input("Nhap ho va ten : ")
+print(f"xin chao {full_name} ")
+
+a = int(input("Nhap so nguyên a : "))
+b = int(input("Nhap so nguyên b : "))
+print(f"Tong cua {a} và {b} la " , a + b)
+print(f"Hiệu cua {a} và {b} la " , a - b)
+print(f"Tích cua {a} và {b} la " , a * b)
+print(f"A mũ B cua {a} và {b} la " , a ** b)
+print(f"a/b cua {a} và {b} la " , a / b)
+print(f"a chia lấy dư b cua {a} và {b} la " , a % b)
+print(f"a chia lấy nguyen cua {a} và {b} la " , a // b)
+
+# bai 2
+k = int(input("Nhập tiếp 1 số nguyên : "))
+print(f"{k} += 1 = ", k + 1)
+print(f"{k} -= 1 = ", k - 1)
+print(f"{k} += 5 = ", k + 5)
+print(f"{k} *= 6  = ", k * 6)
+print(f"{k} /= 5 = ", k / 5)
+print(f"{k} % 5 = ", k % 5)
+print(f"{k} ** 5 = ", k ** 5)
+print(f"{k} // 5 = ", k // 5)
+# bai3
+c = int(input("Nhap so nguyên c : "))
+d = int(input("Nhap so nguyên d : "))
+
+print(f"{c} == {d} ?", c == d)
+print(f"{c} != {d} ?", c != d)
+print(f"{c} > {d} ?", c > d)
+print(f"{c} >= {d} ?", c >= d)
+print(f"{c} < {d} ?", c < d)
+print(f"{c} <= {d} ?", c <= d)
