@@ -1,0 +1,31 @@
+1001
+Ngôn ngữ trung quốc
+3
+1002
+Ngôn ngữ Anh
+4
+1003
+Triết học
+3
+1004
+Lịch sử đáng
+3
+1005
+Lập trình cơ bản
+3
+1006
+Ngôn ngữ Hàn
+4
+1007
+Kinh tế chính trị
+4
+1008
+Ngôn ngữ Tây Ba Nha
+3
+1009
+Hướng đối tượng
+3
+1010
+Hóa học
+3
+
